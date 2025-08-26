@@ -1,0 +1,11 @@
+Django>=4.2
+djangorestframework
+psycopg[binary]
+gunicorn
+django-environ
+pytest
+pytest-django
+pytest-cov
+flake8
+black
+isort
